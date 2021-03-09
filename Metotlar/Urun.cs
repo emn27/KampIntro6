@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Metotlar
+﻿namespace Metotlar
 {
-  
+
     class Urun
     {
         //Property - özellik
@@ -13,7 +9,5 @@ namespace Metotlar
         public double Fiyati { get; set; }
         public string Aciklama { get; set; }
         public int StokAdedi { get; set; }
-
-
     }
 }

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DegerVeReferansTipler
+﻿namespace DegerVeReferansTipler
 {
     class Program
     {
@@ -12,7 +10,6 @@ namespace DegerVeReferansTipler
             sayi2 = 65;
             //sayi1 ?? 30
 
-
             int[] sayilar1 = new[] { 10, 20, 30 };
             int[] sayilar2 = new int[] { 100, 200, 300 };
             sayilar1 = sayilar2;
@@ -20,8 +17,7 @@ namespace DegerVeReferansTipler
             //sayilar1[0] ?? 999
 
            // int, decimal, float, double, bool = değer tip
-           // array class, interface = DegerVeReferansTipler tipler
-            
+           // array class, interface = DegerVeReferansTipler tipler    
         }
     }
 }

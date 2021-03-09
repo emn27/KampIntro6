@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Matematik
+﻿namespace Matematik
 {
     class Program
     {

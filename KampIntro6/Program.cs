@@ -39,10 +39,8 @@ namespace KampIntro6
             {
                 Console.WriteLine("Giriş yap botunu");
             }
-            
-            Console.WriteLine(kategoriEtiketi);
-           
 
+            Console.WriteLine(kategoriEtiketi);
         }
     }
 }
