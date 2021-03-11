@@ -47,5 +47,5 @@ namespace Dictonary
         {
             get { return _array.Length; }
         }
-    }       
+    }   
 }
